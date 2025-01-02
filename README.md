@@ -1,5 +1,8 @@
 <<<<<<< HEAD
 
+🎬 Online Movie Streaming Platform
+This is an online movie streaming platform built with NestJS (backend) and React (frontend). It provides a user-friendly interface to browse, stream, and manage movies with features like search, user authentication, and a personal watchlist.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
